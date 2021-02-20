@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "libwebp"
+  spec.name         = "libwebpZQL"
   spec.version      = "1.1.0"
   spec.summary      = "A short description of libwebp."
 
@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = "libwebp libwebp libwebp libwebp libwebp libwebp libwebp"
 
-  spec.homepage     = "https://github.com/ZengQingLinZ/libwebp.git"
+  spec.homepage     = "https://github.com/ZengQingLinZ/libwebpZQLc.git"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -78,7 +78,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/ZengQingLinZ/libwebp.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/ZengQingLinZ/libwebpZQL.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -89,7 +89,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "libwebp", "libwebp/**/*.{h,m}"
+  spec.source_files  = "libwebpZQL", "libwebpZQL/**/*.{h,m}"
   spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
