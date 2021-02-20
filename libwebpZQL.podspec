@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = "libwebp libwebp libwebp libwebp libwebp libwebp libwebp"
 
-  spec.homepage     = "https://github.com/ZengQingLinZ/libwebpZQLc.git"
+  spec.homepage     = "https://github.com/ZengQingLinZ/libwebpZQL.git"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
